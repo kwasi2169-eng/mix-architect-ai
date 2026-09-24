@@ -28,5 +28,12 @@ Mix Architect AI provides specialist AI architects that guide producers through 
 - Production scoring
 - Improvement roadmap
 
+## Requirements & Quickstart
+- **Environment**: Python 3.8+ (Zero external dependencies — pure Python standard library)
+- **Run Demo**:
+  ```bash
+  python mix_architect.py
+  ```
+
 ## Impact
 Mix Architect AI helps creators make production decisions faster and with greater confidence.
