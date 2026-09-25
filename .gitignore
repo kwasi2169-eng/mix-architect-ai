@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+*.env.*
+.venv/
+venv/
+ENV/
+
+# Audio & Media
+*.wav
+*.mp3
+*.flac
+*.aif
+*.aiff
+*.mp4
+*.mov
+*.mkv
+
+# Keys & Secrets
+*api_key*
+*secret*
+*.pem
+credentials.json
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
